@@ -1,0 +1,500 @@
+   45  git commit -m "Primer ejercicio"
+   46  git push
+   47  nodemon index.js
+   48  git status
+   49  git add .
+   50  git commit -m "Primer ejercicio"
+   51  git push
+   52  nodemon index.js
+   53  git add .
+   54  git commit -m "Segundo ejercicio"
+   55  git push
+   56  npm install body-parser --save
+   57  $ npm install cookie-parser --save
+   58  npm install cookie-parser --save
+   59  nodemon index.js
+   60  git add .
+   61  git commit -m "Tercer Ejercicio (body,cookies,get,post)
+   62  git commit -m "Tercer Ejercicio (body,cookies,get,post)"
+   63  git commit -m "Tercer ejercicio"
+   64  git push
+   65  npm install jsonwebtoken --save
+   66  nodemon index.js
+   67  git status
+   68  git add .
+   69  git commit -m "Cuarto ejercicio ( Authorization )"
+   70  git push
+   71  exit
+   72  cd /c/Users/raque/OneDrive/Documents/Taller/wemanExpress
+   73  npm install mongodb --save
+   74  cd ~
+   75  touch .bash_profile
+   76  vim .bash_profile
+   77  exit
+   78  cd /c/Users/raque/OneDrive/Documents/Taller/weman-rest-api-challange/weman-rest-api-challange
+   79  npm install
+   80  npm run dev
+   81  git pull master 
+   82  git checkout -b "RaquelS"
+   83  npm run dev
+   84  git add .
+   85  git commit -m "Leer libros"
+   86  npm run dev
+   87  mongod
+   88  npm run dev
+   89  npm run dev
+   90  npm install body-parser --save
+   91  npm run dev
+   92  git add .
+   93  git commit -m "Crear Libros"
+   94  git log
+   95  npm run dev
+   96  git push origin "RaquelS"
+   97  npm run dev
+   98  git add .
+   99  git commit -m "Buscar un Libro"
+  100  npm run dev
+  101  git status
+  102  git add .
+  103  git commit -m "Sobre escribir libro"
+  104  git push origin "RaquelS"
+  105  npm run dev
+  106  git add .
+  107  git commit -m "Borrar libro"
+  108  git push origin "RaquelS"
+  109  npm run dev
+  110  $ npm install jsonwebtoken --SAVE
+  111  npm install jsonwebtoken --save
+  112  npm run dev
+  113  git add .
+  114  git commit -m "Autenticacion"
+  115  git push origin "RaquelS"
+  116  git add .
+  117  git commit -m "WIP , middleware verificando token"
+  118  git add .
+  119  npm run dev
+  120  git add .
+  121  git add .
+  122  git commit -m "Middleware verificando token done"
+  123  npm run dev
+  124  git add .
+  125  git commit -m "Middleware verificando admin done"
+  126  git push origin "RaquelS"
+  127  exit
+  128  cd /c/Users/raque/OneDrive/Documents/Taller
+  129  git clone https://github.com/raquelsaave/weman-4.1_html.git
+  130  /weman-4.1_html
+  131  cd /weman-4.1_html
+  132  cd /c/Users/raque/OneDrive/Documents/Taller/weman-4.1_html
+  133  git status
+  134  git status
+  135  git add .
+  136  git commit -m "Seraparacion de archivos"
+  137  git push
+  138  exit
+  139  cd /c/Users/raque/OneDrive/Documents/Taller
+  140  clone https://github.com/raquelsaave/weman_4_blog.git
+  141  git clone https://github.com/raquelsaave/weman_4_blog.git
+  142  git status
+  143  cd v/c/Users/raque/OneDrive/Documents/Taller/weman_4_blog
+  144  cd /c/Users/raque/OneDrive/Documents/Taller/weman_4_blog
+  145  git status
+  146  git add .
+  147  git commit -m "Avance html"
+  148  git push
+  149  exit
+  150  cd /c/Users/raque/OneDrive/Documents/Taller/weman_4_blog
+  151  git status
+  152  git add .
+  153  git commit -m "Avance en CSS"
+  154  git push
+  155  exit
+  156  cd /c/Users/raque/OneDrive/Documents/Taller/CV
+  157  git status
+  158  git add .
+  159  git commit -m "font"
+  160  git push
+  161  cd /c/Users/raque/OneDrive/Documents/Taller/weman_4_blog
+  162  git status
+  163  git add .
+  164  git commit -m "avance js"
+  165  git push
+  166  exit
+  167  CD /c/Users/raque/OneDrive/Documents/Taller
+  168  cd /c/Users/raque/OneDrive/Documents/Taller
+  169  cd /c/Users/raque/OneDrive/Documents/Taller/weman_4_blog-master/weman_4_blog-master
+  170  cd /c/Users/raque/OneDrive/Documents/Taller/weman_4_blog
+  171  npm install 
+  172  npm start
+  173  npm start
+  174  git status
+  175  git add .
+  176  git commit -m "Agrgado de base de datos y aplicacion funcional"
+  177  git push
+  178  exit
+  179  cd /c/Users/raque/OneDrive/Documents/Taller/weman_4_blog
+  180  npm start
+  181  npm start
+  182  git status
+  183  git add .
+  184  git commit -m "Validacion de contraseña en cancervero"
+  185  git puch+
+  186  git push
+  187  exit
+  188  cd /c/Users/raque/OneDrive/Documents/Taller/JSejercicios
+  189  git init
+  190  git remote add origin https://github.com/raquelsaave/ejercicios-JS.git
+  191  git commit -m "Primer commit"
+  192  git add .
+  193  git commit -m "Primer commit"
+  194  git push -u origin master
+  195  git status
+  196  git add .
+  197  git commit -m "Acronimo!
+  198  "
+  199  git push
+  200  git add .
+  201  git commit -m "Faltan ultimas clases"
+  202  git push
+  203  exit
+  204  cd /c/Users/raque/OneDrive/Documents/Taller/JSejercicios
+  205  git add .
+  206  git commit -m "Todo menos listas ligadas"
+  207  git push
+  208  exit
+  209  node.js
+  210  cd /c/Users/raque/OneDrive/Documents/Taller/JSejercicios
+  211  node ejercicios-asincrono.js
+  212  node
+  213  clear
+  214  node 
+  215  exit
+  216  cd /c/Users/raque/OneDrive/Documents/Taller/JSejercicios
+  217  git add .
+  218  git commit -m "Ejercicios de callback y promises"
+  219  git push
+  220  exit
+  221  cd /c/Users/raque/OneDrive/Documents/Taller/JSejercicios
+  222  npm i -g eslint eslint-config-airbnb eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-import
+  223  touch .eslintrc
+  224  { }
+  225  eslint dom.js
+  226  eslint dom.js
+  227  eslint dom.js
+  228  eslint dom.js
+  229  eslint dom.js
+  230  eslint dom.js
+  231  eslint dom.js
+  232  clear
+  233  git status
+  234  git add .
+  235  git commit -m "Ejemplos DOM"
+  236  git push
+  237  eslint dom.js
+  238  eslint dom.js
+  239  eslint dom.js
+  240  exit
+  241  cd /c/Users/raque/OneDrive/Documents/Taller/JSejercicios/tdd
+  242  ./node_modules/mocha/bin/mocha
+  243  ./node_modules/mocha/bin/mocha
+  244  ./node_modules/mocha/bin/mocha
+  245  ./node_modules/mocha/bin/mocha
+  246  ./node_modules/mocha/bin/mocha
+  247  ./node_modules/mocha/bin/mocha
+  248  ./node_modules/mocha/bin/mocha
+  249  ./node_modules/mocha/bin/mocha
+  250  ./node_modules/mocha/bin/mocha
+  251  ./node_modules/mocha/bin/mocha
+  252  ./node_modules/mocha/bin/mocha
+  253  ./node_modules/mocha/bin/mocha
+  254  ./node_modules/mocha/bin/mocha
+  255  ./node_modules/mocha/bin/mocha
+  256  ./node_modules/mocha/bin/mocha
+  257  ./node_modules/mocha/bin/mocha
+  258  ./node_modules/mocha/bin/mocha
+  259  ./node_modules/mocha/bin/mocha
+  260  ./node_modules/mocha/bin/mocha
+  261  ./node_modules/mocha/bin/mocha
+  262  ./node_modules/mocha/bin/mocha
+  263  ./node_modules/mocha/bin/mocha
+  264  ./node_modules/mocha/bin/mocha
+  265  ./node_modules/mocha/bin/mocha
+  266  ./node_modules/mocha/bin/mocha
+  267  ./node_modules/mocha/bin/mocha
+  268  ./node_modules/mocha/bin/mocha
+  269  ./node_modules/mocha/bin/mocha
+  270  ./node_modules/mocha/bin/mocha
+  271  ./node_modules/mocha/bin/mocha
+  272  ./node_modules/mocha/bin/mocha
+  273  ./node_modules/mocha/bin/mocha
+  274  ./node_modules/mocha/bin/mocha
+  275  ./node_modules/mocha/bin/mocha
+  276  ./node_modules/mocha/bin/mocha
+  277  cd ../
+  278  git status
+  279  touch .gitignore
+  280  ls
+  281  git status
+  282  git add . 
+  283  git commit -m "Ejercicios test"
+  284  git push
+  285  exit
+  286  npm i -g create-react-app
+  287  cd /c/Users/raque/OneDrive/Documents/Taller/ProyectoFinal
+  288  create-react-app proyect-test
+  289  cd /c/Users/raque/OneDrive/Documents/Taller/ProyectoFinal/proyect-test
+  290  npm start
+  291  git init
+  292  git remote add origin https://github.com/raquelsaave/reactTest.git
+  293  git add .
+  294  git commit -m "Primeros pasos react"
+  295  git push -u origin master
+  296  exit
+  297  cd /c/Users/raque/OneDrive/Documents/Taller/ProyectoFinal/proyect-test
+  298  npm start
+  299  cd /c/Users/raque/OneDrive/Documents/Taller/ProyectoFinal/proyect-test
+  300  npm start
+  301  pm start
+  302  npm start
+  303  cd /c/Users/raque/OneDrive/Documents/Taller/Blog1st/blog1-test
+  304  npm i -g -s mdbreact
+  305  exit
+  306  cd {   "type": "selection",   "guid": "8e2ceb54",   "source": "a29dd50cd",   "data": {     "nodes": [       {         "id": "b0855d79",         "x": 0,         "y": 0,         "width": 1006,         "height": 535,         "rotation": 0,         "transform": "matrix(1 0 0 1 0 0)",         "inspectables": {           "width_policy": "fixed",           "height_policy": "fixed",           "background_color": "rgb(230,230,230)",           "foreground_color": "rgb(68, 68, 68)",           "secondary_color": "rgb(255,255,255)",           "stroke_color": "rgb(35,31,32)",           "stroke_width": 1,           "stroke_style": "solid",           "opacity": 22,           "font_size": 12,           "color": "rgb(0,0,0)",           "bold": false,           "italic": false,           "underline": false,           "strikethrough": false,           "small_caps": false,           "uppercase": false,           "letter_spacing": 0,           "font": "Helvetica",           "font_weight": 400,           "aspect_lock": false,           "fe_dropshadow_enabled": false,           "fe_dropshadow_opacity": 75,           "fe_dropshadow_angle": 90,           "fe_dropshadow_distance": 5,           "fe_dropshadow_size": 5,           "fe_dropshadow_color": "rgb(0, 0, 0)",           "fe_blur_enabled": false,           "fe_blur_size": 5         },         "text": "Blogosfera\n http://bloggosfera.com",         "name": "browser",         "link": null       },       {         "id": "0dcbad88",         "x": 7,         "y": 69,         "width": 66,         "height": 54,         "rotation": 0,         "transform": "matrix(1 0 0 1 7 69)",         "inspectables": {           "width_policy": "fixed",           "height_policy": "fixed",           "background_color": "rgb(230,230,230)",           "foreground_color": "rgb(68,68,68)",           "stroke_color": "rgb(35,31,32)",           "stroke_width": 1,           "stroke_style": "solid",           "opacity": 17,           "aspect_lock": false,           "fe_dropshadow_enabled": false,           "fesize": 5,           "fe_dropshadow_color": "rgb(0, 0, 0)",           "fe_blur_enabled": false,           "fe_blur_size": 5         },         "text": "",         "name": "image-placeholder-2",         "link": null       },       {         "id": "8bb284de",         "x": 98,         "y": 85,         "width": 554,         "height": 21,         "rotation": 0,         "transform": "matrix(1 0 0 1 98 85)",         "inspectables": {           "width_policy": "fixed",           "height_policy": "fixed",           "color": "rgb(0,0,0)",           "font_size": 12,           "text_align": "left",           "background_color": "rgb(230,230,230)",           "foreground_color": "rgb(68,68,68)",           "stroke_color": "rgb(35,31,32)",           "stroke_width": 1,           "stroke_style": "solid",           "opacity": 35,           "corner_radius_tl": 13,           "corner_radius_tr": 13,           "corner_radius_br": 13,           "corner_radius_bl": 13,           "corner_radius_lock": true,           "corner_radius_scale": false,           "bold": false,           "italic": false,           "underline": false,           "strikethrough": false,           "small_caps": false,           "uppercase": false,           "letter_spacing": 0,           "font": "Helvetica",           "font_weight": 400,           "aspect_lock": false,           "fe_dropshadow_enabled": false,           "fe_dropshadow_opacity": 75,           "fe_dropshadow_angle": 90,           "fe_dropshadow_distance": 5,           "fe_dropshadow_size": 5,           "fe_dropshadow_color": "rgb(0, 0, 0)textElement",           "vertical_align": "middle",           "padding_left": 0,           "padding_right": 0,           "padding_top": 0,           "padding_bottom": 0,           "fe_blur_enabled": false,           "fe_blur_size": 5         },         "text": "Search...",         "name": "search-input",         "link": null       },       {         "id": "ea93fefb",         "x": 255,         "y": 164,         "width": 559,         "height": 275,         "rotation": 0,         "transform": "matrix(1 0 0 1 255 164)",         "inspectables": {           "width_policy": "fixed",           "height_policy": "fixed",           "background_color": "rgb(68, 68, 68)",           "stroke_color": "rgb(35,31,32)",           "stroke_width": 0.5,           "stroke_style": "dotted",           "opacity": 94,           "corner_radius_tl": 0,           "corner_radius_tr": 0,           "corner_radius_br": 0,           "corner_radius_bl": 0,           "corner_radius_lock": true,           "corner_radius_scale": false,           "aspect_lock": false,           "path": "M0 0 L100 0 C100 0 100 0 100 0 L100 50 C100 50 100 50 100 50 L0 50 C0 50 0 50 0 50 L0 0 C0 0 0 0 0 0 Z",           "fe_dropshadow_enabled": false,           "fe_dropshadow_opacity": 75,           "fe_dropshadow_angle": 90,           "fe_dropshadow_distance": 5,           "fe_dropshadow_size": 5,           "fe_dropshadow_color": "rgb(0, 0, 0)",           "fe_blur_enabled": false,           "fe_blur_size": 5,           "connector_stroke_width": null         },         "text": "",         "name": "rect"       },       {         "id": "3130671a",         "x": 376,         "y": 311,         "width": 301,         "height": 45,         "rotation": 0,         "transform": "matrix(1 0 0 1 376.155 311)",         "inspectables": {           "width_policy": "fixed",           "height_policy": "fixed",           "background_color": "rgba(66,139,202,0)",           "stroke_color": "rgb(204,204,204)",           "stroke_width": 1,           "stroke_style": "solid",           "opacity": 100,           "corner_radius_tl": 0,           "corner_radius_tr": 5,           "corner_radius_br": 5,           "corner_radius_bl": 0,           "corner_radius_lock": false,           "corner_radius_scale": false,           "aspect_lock": false,           "path": "M0 0 L100 0 C100 0 100 0 100 0 L100 50 C100 50 100 50 100 50 L0 50 C0 50 0 50 0 50 L0 0 C0 0 0 0 0 0 Z",           "fe_dropshadow_enabled": false,           "fe_dropshadow_opacity": 100,           "fe_dropshadow_angle": 90,           "fe_dropshadow_distance": 0,           "fe_dropshadow_size": 5,           "fe_dropshadow_color": "rgb(0, 0, 0)",           "fe_blur_enabled": false,           "fe_blur_size": 5,           "connector_stroke_width": null         },         "text": "",         "name": "rect"       },       {         "id": "8472f2b7",         "x": 395,         "y": 320,         "width": 282,         "height": 27,         "rotation": 0,         "transform": "matrix(1 0 0 1 395.187 320.419)",         "inspectables": {           "width_policy": "fixed",           "height_policy": "fixed",           "color": "rgb(153,153,153)",           "font_size": 18,           "text_align": "left",           "bold": false,           "italic": false,           "underline": false,           "strikethrough": false,           "small_caps": false,           "opacity": 100,           "uppercase": false,           "letter_spacing": 0,           "font": "Helvetica",           "font_weight": 400,           "aspect_lock": false,           "fe_dropshadow_enabled": false,           "fe_dropshadow_opacity": 75,           "fe_dropshadow_angle": 90,           "fe_dropshadow_distance": 5,           "fe_dropshadow_size": 5,           "fe_dropshadow_color": "rgb(0, 0, 0)",           "vertical_align": "middle",           "padding_left": 0,           "padding_right": 0,           "padding_top": 0,           "padding_bottom": 0,           "fe_blur_enabled": false,           "fe_blur_size": 5         },         "text": "Password",         "name": "label"       },       {         "id": "e2068828",         "x": 306,         "y": 311,         "width": 70,         "height": 45,         "rotation": 0,         "transform": "matrix(1 0 0 1 306.427 311)",         "inspectables": {           "width_policy": "fixed",           "height_policy": "fixed",           "background_color": "rgb(238,238,238)",           "stroke_color": "rgb(204,204,204)",           "stroke_width": 1,           "stroke_style": "solid",           "opacity": 100,           "corner_radius_tl": 5,           "corner_radius_tr": 0,           "corner_radius_br": 0,           "corner_radius_bl": 5,           "corner_radius_lock": false,           "corner_radius_scale": false,           "aspect_lock": false,           "path": "M0 0 L100 0 C100 0 100 0 100 0 L100 50 C100 50 100 50 100 50 L0 50 C0 50 0 50 0 50 L0 0 C0 0 0 0 0 0 Z",           "fe_dropshadow_enabled": false,           "fe_dropshadow_opacity": 100,           "fe_dropshadow_angle": 90,           "fe_dropshadow_distance": 0,           "fe_dropshadow_size": 5,           "fe_dropshadow_color": "rgb(0, 0, 0)",           "fe_blur_enabled": false,           "fe_blur_size": 5,           "connector_stroke_width": null         },         "text": "",         "name": "rect"       },       {         "id": "e84c16eb",         "x": 326,         "y": 321,         "width": 33,         "height": 26,         "rotation": 0,         "transform": "matrix(1 0 0 1 325.658 321.465)",         "inspectables": {           "width_policy": "fixed",           "height_policy": "fixed",           "background_color": "rgb(102,102,102)",           "stroke_color": "rgb(0,0,0)",           "stroke_width": 0,           "stroke_style": "solid",           "opacity": 100,           "path": "M19.85 14.06Q20.46 14.41 20.65 15.1T20.48 16.41L19.62 17.88Q19.27 18.5 18.58 18.68T17.28 18.51L13.71 16.46V20.57Q13.71 21.27 13.21 21.78T12 22.29H10.29Q9.59 22.29 9.08 21.78T8.57 20.57V16.46L5.01 18.51Q4.39 18.86 3.7 18.68T2.67 17.88L1.81 16.41Q1.46 15.79 1.64 15.1T2.44 14.06L6 12 2.44 9.94Q1.82 9.59 1.64 8.9T1.81 7.59L2.67 6.12Q3.01 5.5 3.7 5.32T5.01 5.49L8.57 7.54V3.43Q8.57 2.73 9.08 2.22T10.29 1.71H12Q12.7 1.71 13.21 2.22T13.71 3.43V7.54L17.28 5.49Q17.89 5.14 18.58 5.32T19.62 6.12L20.48 7.59Q20.83 8.21 20.65 8.9T19.85 9.94L16.29 12Z",           "path_bbox_width": 0,           "path_bbox_height": 0,           "size": 24,           "aspect_lock": true,           "fe_dropshadow_enabled": false,           "fe_dropshadow_opacity": 75,           "fe_dropshadow_angle": 90,           "fe_dropshadow_distance": 5,           "fe_dropshadow_size": 5,           "fe_dropshadow_color": "rgb(0, 0, 0)",           "fe_blur_enabled": false,           "fe_blur_size": 5         },         "text": "",         "data": {},         "name": "plain-svg"       },       {         "id": "c32811cb",         "x": 376,         "y": 239,         "width": 300,         "height": 57,         "rotation": 0,         "transform": "matrix(1 0 0 1 375.97 239)",         "inspectables": {           "width_policy": "fixed",           "height_policy": "fixed",           "background_color": "rgba(66,139,202,0)",           "stroke_color": "rgb(204,204,204)",           "stroke_width": 1,           "stroke_style": "solid",           "opacity": 100,           "corner_radius_tl": 0,           "corner_radius_tr": 5,           "corner_radius_br": 5,           "corner_radius_bl": 0,           "corner_radius_lock": false,           "corner_radius_scale": false,           "aspect_lock": false,           "path": "M0 0 L100 0 C100 0 100 0 100 0 L100 50 C100 50 100 50 100 50 L0 50 C0 50 0 50 0 50 L0 0 C0 0 0 0 0 0 Z",           "fe_dropshadow_enabled": false,           "fe_dropshadow_opacity": 100,           "fe_dropshadow_angle": 90,           "fe_dropshadow_distance": 0,           "fe_dropshadow_size": 5,           "fe_dropshadow_color": "rgb(0, 0, 0)",           "fe_blur_enabled": false,           "fe_blur_size": 5,           "connector_stroke_width": null         },         "text": "",         "name": "rect"       },       {         "id": "5247efea",         "x": 395,         "y": 251,         "width": 282,         "height": 35,         "rotation": 0,         "transform": "matrix(1 0 0 1 394.949 250.931)",         "inspectables": {           "width_policy": "fixed",           "height_policy": "fixed",           "color": "rgb(255, 255, 255)",           "font_size": 18,           "text_align": "left",           "bold": false,           "italic": false,           "underline": false,           "strikethrough": false,           "small_caps": false,           "opacity": 100,           "uppercase": false,           "letter_spacing": 0,           "font": "Helvetica",           "font_weight": 400,           "aspect_lock": false,           "fe_dropshadow_enabled": false,           "fe_dropshadow_opacity": 75,           "fe_dropshadow_angle": 90,           "fe_dropshadow_distance": 5,           "fe_dropshadow_size": 5,           "fe_dropshadow_color": "rgb(0, 0, 0)",           "vertical_align": "middle",           "padding_left": 0,           "padding_right": 0,           "padding_top": 0,           "padding_bottom": 0,           "fe_blur_enabled": false,           "fe_blur_size": 5         },         "text": "Email",         "name": "label"       },       {         "id": "ad6d16ad",         "x": 306,         "y": 239,         "width": 71,         "height": 57,         "rotation": 0,         "transform": "matrix(1 0 0 1 306.43 239)",         "inspectables": {           "width_policy": "fixed",           "height_policy": "fixed",           "background_color": "rgb(238,238,238)",           "stroke_color": "rgb(204,204,204)",           "stroke_width": 1,           "stroke_style": "solid",           "opacity": 100,           "corner_radius_tl": 5,           "corner_radius_tr": 0,           "corner_radius_br": 0,           "corner_radius_bl": 5,           "corner_radius_lock": false,           "corner_radius_scale": false,           "aspect_lock": false,           "path": "M0 0 L100 0 C100 0 100 0 100 0 L100 50 C100 50 100 50 100 50 L0 50 C0 50 0 50 0 50 L0 0 C0 0 0 0 0 0 Z",           "fe_dropshadow_enabled": false,           "fe_dropshadow_opacity": 100,           "fe_dropshadow_angle": 90,           "fe_dropshadow_distance": 0,           "fe_dropshadow_size": 5,           "fe_dropshadow_color": "rgb(0, 0, 0)",           "fe_blur_enabled": false,           "fe_blur_size": 5,           "connector_stroke_width": null         },         "text": "",         "name": "rect"       },       {         "id": "df6ab1c8",         "x": 324,         "y": 255,         "width": 37,         "height": 26,         "rotation": 0,         "transform": "matrix(1 0 0 1 324.134 254.907)",         "inspectables": {           "width_policy": "fixed",           "height_policy": "fixed",           "background_color": "rgb(102,102,102)",           "stroke_color": "rgb(0,0,0)",           "stroke_width": 0,           "stroke_style": "solid",           "opacity": 100,           "path": "M20 4H4C2.9 4 2.01 4.9 2.01 6L2 18C2 19.1 2.9 20 4 20H20C21.1 20 22 19.1 22 18V6C22 4.9 21.1 4 20 4ZM20 18H4V8L12 13 20 8V18ZM12 11L4 6H20L12 11Z",           "path_bbox_width": 0,           "path_bbox_height": 0,           "size": 24,           "aspect_lock": true,           "fe_dropshadow_enabled": false,           "fe_dropshadow_opacity": 75,           "fe_dropshadow_angle": 90,           "fe_dropshadow_distance": 5,           "fe_dropshadow_size": 5,           "fe_dropshadow_color": "rgb(0, 0, 0)",           "fe_blur_enabled": false,           "fe_blur_size": 5         },         "text": "",         "data": {},         "name": "plain-svg"       },       {         "id": "f3b25389",         "x": 694,         "y": 385,         "width": 98,         "height": 41,         "rotation": 0,         "transform": "matrix(1 0 0 1 694(255,255,255)",           "font_size": 14,           "text_align": "center",           "background_color": "rgb(22,157,179)",  100,           "corner_radius_tl": 3,           "corner_radius_tr": 3,           "corner_radius_br": 3,           "corner_radius_bl": 3,           "corner_radius_lock": true,           "corner_radius_scale": false,           "bold": false,           "italic": false,           "underline": false,           "strikethrough": false,           "small_caps": false,           "uppercase": false,           "letter_spacing": 0,           "font": "Helvetica",           "font_weight": 400,           "aspect_lock": f       "fe_dropshadow_distance": 5,           "fe_dropshadow_size": 5,           "fe_dropshadow_color": "rgb(0, 0, 0)",           "vertical_align": "middle",           "padding_left": 10,           "padding_right": 10,           "padding_top": 0,         \">Log In</p>",         "name": "button",         "link": {           "click": [             {               "type": "page",               "ref": "a3140b481",               "action": "page",               "target": null             }           ]         }       },       {         "id": "fd483496",         "x": 444,         "y": 164,         "width": 387,         "height": 65,         "rotation": 0,         "transform": "matrix(1 0 0 1 444 164)",         "inspectables": {           "width_policy": "fixed",           "height_policy": "fixed",           "color": "rgb(255, 255, 255)",           "font_size": 30,           "text_align": "left",           "bold": true,           "italic": false,           "underline": false,           "strikethrough": false,           "small_caps": false,           "uppercase": false,           "letter_spacing": 0,           "opacity": 100,           "font": "ABeeZee",           "font_weight": 400,           "aspect_lock": false,           "fe_dropshadow_enabled": false,           "fe_dropshadow_opacity": 75,           "fe_dropshadow_angle": 90,           "fe_dropshadow_distance": 5,           "fe_dropshadow_size": 5,           "fe_dropshadow_color": "rgb(0, 0, 0)",           "vertical_align": "middle",           "padding_left": 0,           "padding_right": 0,           "padding_top": 0,           "padding_bottom": 0,           "fe_blur_enabled": false,           "fe_blur_size": 5         },         "text": "<p dir=\"auto\"><span style=\"color: var(--mq-txt-color, #6ae3cf);\">Inicia Sesión!</span></p>",         "name": "heading"       },       {         "id": "40458fb3",         "x": 677,         "y": 85,         "width": 340,         "height": 17,         "rotation": 0,         "transform": "matrix(1 0 0 1 677 85)",         "inspectables": {           "width_policy": "fixed",           "height_policy": "fixed",           "foreground_color": "rgba(122,122,122,0.4)",           "color": "rgb(96,96,96)",           "color_selected": "rgb(96,96,96)",           "font_size": 16,           "text_align": "center",           "opacity": 17,           "bold": false,           "italic": false,           "underline": false,           "strikethrough": false,           "small_caps": false,           "letter_spacing": 0,           "font": "Source Sans Pro",           "font_weight": 300,           "aspect_lock": false,           "fe_dropshadow_enabled": false,           "fe_dropshadow_opacity": 75,           "fe_dropshadow_angle": 90,           "fe_dropshadow_distance": 5,           "fe_dropshadow_size": 5,           "fe_dropshadow_color": "rgb(0, 0, 0)",           "fe_blur_enabled": false,           "fe_blur_size": 5         },         "text": " Getting started, About, Contact",         "name": "legacy-link-bar-menu",         "link": null       }     ],     "hierarchy": {       "3130671a": {         "id": "3130671a",         "type": "item",         "parent": "_GROUP_69f07db7",         "locked": false,         "link": null,         "aspect_lock": false,         "visible": true,         "instance_name": "Rectangle 2"       },       "_GROUP_69f07db7": {         "id": "_GROUP_69f07db7",         "type": "group",         "parent": "_GROUP_f78e2a38",         "locked": false,         "link": null,         "aspect_lock": false,         "visible": true,         "instance_name": "Group 2",         "expanded": false       },       "_GROUP_f78e2a38": {         "id": "_GROUP_f78e2a38",         "type": "group",         "locked": false,         "link": null,         "aspect_lock": false,         "visible": true,         "instance_name": "Bootstrap Input Password 1",         "expanded": false       },       "_GROUP_56fa9f60": {         "id": "_GROUP_56fa9f60",         "type": "group",         "parent": "_GROUP_f78e2a38",         "locked": false,         "link": null,         "aspect_lock": false,         "visible": true,         "instance_name": "Group 1",         "expanded": false       },       "_GROUP_d2c1a977": {         "id": "_GROUP_d2c1a977",         "type": "group",         "parent": "_GROUP_4b77bf59",         "locked": false,         "link": null,         "aspect_lock": false,         "visible": true,         "instance_name": "Group 4",         "expanded": false       },       "_GROUP_4b77bf59": {         "id": "_GROUP_4b77bf59",         "type": "group",         "locked": false,         "link": null,         "aspect_lock": false,         "visible": true,         "instance_name": "Bootstrap Input Email 1",         "expanded": false       },       "_GROUP_a7ac215b": {         "id": "_GROUP_a7ac215b",         "type": "group",         "parent": "_GROUP_4b77bf59",         "locked": false,         "link": null,         "aspect_lock": false,         "visible": true,         "instance_name": "Group 3",         "expanded": false       },       "b0855d79": {         "id": "b0855d79",         "type": "item",         "locked": false,         "link": null,         "aspect_lock": false,         "visible": true,         "instance_name": "Browser 1"       },       "0dcbad88": {         "id": "0dcbad88",         "type": "item",         "locked": false,         "link": null,         "aspect_lock": false,         "visible": true,         "instance_name": "Image placeholder 5"       },       "8bb284de": {         "id": "8bb284de",         "type": "item",         "locked": false,         "link": null,         "aspect_lock": false,         "visible": true,         "instance_name": "Search input 1"       },       "ea93fefb": {         "id": "ea93fefb",         "type": "item",         "locked": false,         "link": null,         "aspect_lock": false,         "visible": true,         "instance_name": "Rectangle 1"       },       "8472f2b7": {         "id": "8472f2b7",         "type": "item",         "parent": "_GROUP_69f07db7",         "locked": false,         "link": null,         "aspect_lock": false,         "visible": true,         "instance_name": "Label 1"       },       "e2068828": {         "id": "e2068828",         "type": "item",         "parent": "_GROUP_56fa9f60",         "locked": false,         "link": null,         "aspect_lock": false,         "visible": true,         "instance_name": "Rectangle 3"       },       "e84c16eb": {         "id": "e84c16eb",         "type": "item",         "parent": "_GROUP_56fa9f60",         "locked": false,         "link": null,         "aspect_lock": false,         "visible": true,         "instance_name": "Plain SVG 1"       },       "c32811cb": {         "id": "c32811cb",         "type": "item",         "parent": "_GROUP_d2c1a977",         "locked": false,         "link": null,         "aspect_lock": false,         "visible": true,         "instance_name": "Rectangle 5"       },       "5247efea": {         "id": "5247efea",         "type": "item",         "parent": "_GROUP_d2c1a977",         "locked": false,         "link": null,         "aspect_lock": false,         "visible": true,         "instance_name": "Label 2"       },       "ad6d16ad": {         "id": "ad6d16ad",         "type": "item",         "parent": "_GROUP_a7ac215b",         "locked": false,         "link": null,         "aspect_lock": false,         "visible": true,         "instance_name": "Rectangle 4"       },       "df6ab1c8": {         "id": "df6ab1c8",         "type": "item",         "parent": "_GROUP_a7ac215b",         "locked": false,         "link": null,         "aspect_lock": false,         "visible": true,         "instance_name": "Plain SVG 2"       },       "f3b25389": {         "id": "f3b25389",         "type": "item",         "locked": false,         "link": null,         "aspect_lock": false,         "visible": true,         "instance_name": "Bootstrap Button Cyan Pressed 1"       },       "fd483496": {         "id": "fd483496",         "type": "item",         "locked": false,         "link": null,         "aspect_lock": false,         "visible": true,         "instance_name": "Heading 2"       },       "40458fb3": {         "id": "40458fb3",         "type": "item",         "locked": false,         "link": null,         "aspect_lock": false,         "visible": true,         "instance_name": "Link Bar 2"       }     },     "idMapping": {       "91510697": "3130671a",       "_GROUP_07ec19d6": "_GROUP_69f07db7",       "_GROUP_3c016bda": "_GROUP_f78e2a38",       "_GROUP_f1135296": "_GROUP_56fa9f60",       "_GROUP_04f0afc0": "_GROUP_d2c1a977",       "_GROUP_1c97a7e9": "_GROUP_4b77bf59",       "_GROUP_b3466602": "_GROUP_a7ac215b",       "6c105299": "b0855d79",       "6c8fd372": "0dcbad88",       "f1c63bcb": "8bb284de",       "82a8cd82": "ea93fefb",       "f90dd23f": "8472f2b7",       "1443f3f8": "e2068828",       "2295c4b2": "e84c16eb",       "51fb1c72": "c32811cb",       "77a8c8f6": "5247efea",       "d3899f26": "ad6d16ad",       "231648a2": "df6ab1c8",       "d905b8f0": "f3b25389",       "a499ddc0": "fd483496",       "1d5bb21e": "40458fb3"     },     "size": {       "width": 1017,       "height": 535
+  307  cd /c/Users/raque/OneDrive/Documents/Taller/ProyectoFinal/proyect-test
+  308  npm i -s react-router-dom
+  309  npm start
+  310  npm i -g json-server
+  311  json-server --watch db.json -p 3001
+  312  json-server --watch db.json -p 3001
+  313  json-server --watch db.json -p 3001
+  314  git status
+  315  git add .
+  316  git commit -m "Final changes"
+  317  git push 
+  318  exit
+  319  cd /c/Users/raque/OneDrive/Documents/Taller/ProyectoFinal/proyect-test
+  320  git status
+  321  gid add .
+  322  git add .
+  323  git commit -m "Cambios de ayer y hoy"
+  324  git push
+  325  git status
+  326  git add .
+  327  git commit -m "antes de cambios"
+  328  cd /c/Users/raque/OneDrive/Documents/Taller/Blog1st
+  329  cd /c/Users/raque/OneDrive/Documents/Taller/Blog1st
+  330  npm i -g create-react-app
+  331  create-react-app blog1-test
+  332  npm start
+  333  cd /c/Users/raque/OneDrive/Documents/Taller/ProyectoFinal
+  334  cd /c/Users/raque/OneDrive/Documents/Taller/Blog1st/blog1-test
+  335  npm start
+  336  npm start
+  337  npm start
+  338  npm start
+  339  npm i -g mdbreact
+  340  npm start
+  341  npm i -s react-router-dom
+  342  npm start
+  343  git init 
+  344  git remote add origin https://github.com/raquelsaave/blog-test.git
+  345  git add .
+  346  git commit -m "First commit"
+  347  git push
+  348  git push -u origin master
+  349  exit
+  350  cd /c/Users/raque/OneDrive/Documents/Taller/Blog1st/blog1-test
+  351  npm start
+  352  npm start
+  353  npm install react-bootstrap bootstrap
+  354  npm start
+  355  exit
+  356  exit
+  357  cd /c/Users/raque/OneDrive/Documents/Taller/Blog1st/blog1-test
+  358  npm i -s react-bootstrap
+  359  npm i -g json-server
+  360  json-server --watch db.json -p 3001
+  361  exit
+  362  cd /c/Users/raque/OneDrive/Documents/Taller/ProyectoFinal/proyect-test
+  363  json-server --watch db.json -p 3001
+  364  cd /c/Users/raque/OneDrive/Documents/Taller/Blog1st/blog1-test
+  365  json-server --watch db.json -p 3001
+  366  json-server --watch db.json -p 3001
+  367  exit
+  368  cd /c/Users/raque/OneDrive/Documents/Taller/ProyectoFinal/proyect-test
+  369  git status
+  370  git add .
+  371  git commit -m "Agregar,Editar y Eliminar"
+  372  git push
+  373  exit
+  374  cd /c/Users/raque/OneDrive/Documents/Taller/ProyectoFinal/proyect-test
+  375  git init
+  376  npm start
+  377  S
+  378  chhh
+  379  npm start
+  380  cd /c/Users/raque/OneDrive/Documents/Taller/Blog1st/blog1-test
+  381  npm start
+  382  git status
+  383  git add .
+  384  git commit -m "Agrego funcionalidad de Crear.Editar.Borrar posts"
+  385  git push
+  386  cd /c/Users/raque/OneDrive/Documents/Taller
+  387  git clone https://github.com/krystelbaca/learn-git.git
+  388  cd /c/Users/raque/OneDrive/Documents/Taller/learn-git
+  389  git checkout -b "create-function-T3"
+  390  git checkout master
+  391  git checkout -b "create-function-T3"
+  392  git checkout "create-function-T3"
+  393  git status
+  394  git status
+  395  git add . 
+  396  git commit -m "Ejercicio 3"
+  397  git push
+  398  git fetch
+  399  git checkout development
+  400  git checkout -b "create-function-T3"
+  401  git push origin --delete "create-function-T3"
+  402  git checkout master
+  403  git push origin --delete "create-function-T3"
+  404  git checkout development
+  405  git checkout master
+  406  git checkout development
+  407  git remote set-url workshop https://github.com/krystelbaca/learn-git/
+  408  git checkout master
+  409  git remote set-url workshop https://github.com/krystelbaca/learn-git/
+  410  git remote set-url origin https://github.com/krystelbaca/learn-git/
+  411  git status
+  412  git checkout "create-function-T3"
+  413  git status
+  414  git push 
+  415  git push --set-upstream origin create-function-T3
+  416  git pull origin development
+  417  git pull origin development
+  418  git diff 
+  419  git status
+  420  git add .
+  421  exit
+  422  cd /c/Users/raque/OneDrive/Documents/Taller/ProyectoFinal/proyect-test
+  423  json-server --watch db.json -p 3001
+  424  cd /c/Users/raque/OneDrive/Documents/Taller/Blog1st/blog1-test
+  425  json-server --watch db.json -p 3001
+  426  json-server --watch db.json -p 3001
+  427  exit
+  428  cd /c/Users/raque/OneDrive/Documents/Taller/Blog1st/blog1-test
+  429  json-server --watch db.json -p 3001
+  430  exit
+  431  cd /c/Users/raque/OneDrive/Documents/Taller/Blog1st/blog1-test
+  432  npm start
+  433  git add .
+  434  git commit -m "Agrego explore page y wallpaper"
+  435  git push
+  436  exit
+  437  cd /c/Users/raque/OneDrive/Documents/Taller/Blog1st/blog1-test
+  438  json-server --watch db.json -p 3001
+  439  json-server --watch db.json -p 3001
+  440  exit
+  441  cd /c/Users/raque/OneDrive/Documents/Taller/Blog1st/blog1-test
+  442  npm start
+  443  exit
+  444  cd /c/Users/raque/OneDrive/Documents/Taller/ProyectoFinal/proyect-test
+  445  git status
+  446  git add .
+  447  git commit -m "Agregar el poder seleccionar item por Id"
+  448  git push
+  449  cd /c/Users/raque/OneDrive/Documents/Taller/Blog1st/blog1-test
+  450  git status
+  451  git add .
+  452  git commit -m "Agrego pagina de inicio con boton p/crear usuario"
+  453  git push
+  454  git add .
+  455  git commit -m "Trabajando en BlogPost Page"
+  456  git push
+  457  exit
+  458  cd /c/Users/raque/OneDrive/Documents/Taller/Blog1st/blog1-test
+  459  json-server --watch db.json -p 3001
+  460  exit
+  461  cd /c/Users/raque/OneDrive/Documents/Taller/Blog1st/blog1-test
+  462  npm start
+  463  git add .
+  464  git commit -m "Trabajando en NavBar"
+  465  git push
+  466  exit
+  467  cd /c/Users/raque/OneDrive/Documents/Taller/Blog1st/blog1-test
+  468  npm start
+  469  exit
+  470  cd /c/Users/raque/OneDrive/Documents/Taller/Blog1st/blog1-test
+  471  json-server --watch db.json -p 3001
+  472  exit
+  473  cd /c/Users/raque/OneDrive/Documents/Taller/Blog1st/blog1-test
+  474  nom start
+  475  npm start
+  476  exit
+  477  cd /c/Users/raque/OneDrive/Documents/Taller/Blog1st/blog1-test
+  478  json-server --watch db.json -p 3001
+  479  exit
+  480  cd /c/Users/raque/OneDrive/Documents/Taller/Blog1st/blog1-test
+  481  json-server --watch db.json -p 3001
+  482  exit
+  483  cd /c/Users/raque/OneDrive/Documents/Taller/Blog1st/blog1-test
+  484  npm start
+  485  exit
+  486  cd /c/Users/raque/OneDrive/Documents/Taller/ORM_test
+  487  cd /c/Users/raque/OneDrive/Documents/Taller/ORM_prueba
+  488  npm start run
+  489  npm start run
+  490  npm start run
+  491  npm start run
+  492  npm start run
+  493  npm start run
+  494  npm start run
+  495  npm start run
+  496  npm start run
+  497  npm start run
+  498  npm start run
+  499  exit
+  500  cd /c/Users/raque/OneDrive/Documents/Taller/ORM_prueba
+  501  npm install
+  502  npm start run
+  503  npm start run
+  504  npm start run
+  505  npm start run
+  506  npm start run
+  507  npm start run
+  508  npm start run
+  509  npm start run
+  510  npm start run
+  511  npm start run
+  512  npm start run
+  513  npm start run
+  514  npm start run
+  515  cd ../
+  516  cd ./Migration_ejemplo1
+  517  clr
+  518  clear
+  519  npm install -g sequelize-cli
+  520  sequelize init
+  521  npm install --save sequelize
+  522  sequelize init
+  523  ls
+  524  npm init
+  525  npm install
+  526  ls
+  527  sequelize init
+  528  npx sequelize-cli init
+  529  npx sequelize-cli model:generate --name Mascotas --attributes raza:string,precio:integer,tamaño:string,color:string,sexo:string
+  530  npm install --save mysql2
+  531  npx sequelize-cli db:migrate
+  532  npm install --save mysql2
+  533  npx sequelize-cli db:migrate
+  534  npx sequelize-cli db:migrate:undo
+  535  npx sequelize-cli db:migrate
+  536  npx sequelize-cli seed:generate --name demo-mascota
+  537  npx sequelize-cli db:seed:all
+  538  npx sequelize-cli db:seed:all
+  539  npx sequelize-cli db:seed:all
+  540  npx sequelize-cli seed:generate --name mascota-agregar-columnas
+  541  npx sequelize-cli db:seed:all
+  542  npx sequelize-cli db:seed:all
+  543  npx sequelize-cli db:seed:all
+  544  history > comandos_sequelize_migration.txt
